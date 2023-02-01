@@ -19,3 +19,4 @@ Class Palindrome{
 }
 }
 	
+//this program helps to find if a number is palindrome
