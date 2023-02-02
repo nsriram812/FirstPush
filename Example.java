@@ -1,4 +1,4 @@
-#program to print hello world
+
 Import java.util.*;
 
 Class Example{
